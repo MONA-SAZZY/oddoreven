@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class EvenOdd
+class EvenorOdd
 {
   public static void main(String[] args)
     {
